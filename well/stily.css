@@ -1,0 +1,21 @@
+.corImpar{
+	background: white;
+
+}
+.corPar{
+	background-color: #595959;
+}
+
+table tr td a{
+	text-decoration: none;
+	color: black; 
+}
+
+table tr td a:hover{
+	color: yellow;
+	background: blue;
+}
+img{
+	width: 200px;
+	height: 200px;
+}
